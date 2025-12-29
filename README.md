@@ -51,15 +51,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/jomaasouha/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
   </a>
 
   <a href="mailto:souhajomaa1412@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/gmail" width="40"/>
   </a>
 
   <a href="https://www.instagram.com/souhajomaa20/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/instagram" width="40" />
   </a>
 </p>
 
