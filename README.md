@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 - 🔐 Passionate about **Cybersecurity & Cloud Computing**
-- 💻 Experienced in **Web, Mobile & Security Development**
+- 💻 Experienced in **Web & Mobile Development**
 - 🧠 Learning **SOC, Cloud Security & Penetration Testing**
 - 🚀 Always improving & exploring new technologies
 
@@ -63,16 +63,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploitable-8B0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souhajomaa&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souhajomaa&theme=radical" />
 </p>
 
 
