@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souha Jomaa/h1>
 <h3 align="center">Cybersecurity Enthusiast | Developer</h3>
 
-<p align="center">
-  <img src="https://sl.bing.net/iqLkL9MXfVs" width="120" />
-</p>
 
 ---
 
@@ -17,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/souhajomaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hacker795-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-souhajomaa-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -77,6 +74,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souhajomaa&theme=radical" />
 </p>
+
 
 ---
 
