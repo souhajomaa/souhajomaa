@@ -55,7 +55,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/souhajomaa20/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@twinklesharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-@Souhajom-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jomaasouha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
