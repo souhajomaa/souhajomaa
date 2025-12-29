@@ -1,22 +1,6 @@
-<h1 align="center">Hi 👋, I'm Souha Jomaa/h1>
+<h1 align="center">Hi 👋, I'm Souha Jomaa </h1>
 <h3 align="center">Cybersecurity Enthusiast | Developer</h3>
 
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/souhajomaa20/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@twinklesharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jomaasouha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/souhajomaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-souhajomaa-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
 ---
 
@@ -65,6 +49,21 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/souhajomaa20/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@twinklesharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jomaasouha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/souhajomaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-souhajomaa-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
