@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souha Jomaa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0033CC&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Cloud+%26+Cybersecurity+Enthusiast;Secure+Cloud+Architecture;Secure+CI%2FCD+Pipelines;Building+Secure+Cloud+%26+MLOps+Pipelines;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B5CF6&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Cloud+%26+Cybersecurity+Enthusiast;Secure+Cloud+Architecture;Secure+CI%2FCD+Pipelines;Building+Secure+Cloud+%26+MLOps+Pipelines;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,11 +48,6 @@
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
-- ☁️ Designing and deploying **secure cloud architectures** with containerized microservices
-- 🔁 Building **CI/CD pipelines** (Jenkins, GitHub Actions) with automated testing and vulnerability scanning (**Trivy**)
-- 🧹 Static code analysis & code quality gates with **SonarQube**, guided by **OWASP** security standards
-- 📡 API design, documentation & testing with **Swagger** and **Postman**
-- 📊 Infrastructure monitoring with **Grafana & Prometheus**
 
 ---
 
@@ -72,10 +67,7 @@
   <img src="https://img.shields.io/badge/IDS%2FIPS-6A0DAD?style=for-the-badge"/>
 </p>
 
-- 🔎 Threat detection & intrusion analysis with **Wazuh, Suricata, Elastic Stack**
-- 🧪 Penetration testing & vulnerability assessment with **Nmap, Wireshark, Burp Suite, Metasploit**
-- 🌐 Network security fundamentals: TCP/IP, DNS, DHCP, VLANs, Routing & Switching, Firewalls
-- 📜 Certified in **Network Security** (Cisco Networking Academy)
+
 
 ---
 
@@ -93,10 +85,6 @@
 
 </p>
 
-- 🤖 Building **end-to-end MLOps pipelines**: automated ML training, model management, and secure deployment
-- 🧪 Model experimentation & tracking with **MLflow**, orchestration with **Airflow**
-- 🚀 Serving models through secure **FastAPI** endpoints
-- 📊 Pipeline monitoring with **Grafana & Prometheus**
 
 ---
 
